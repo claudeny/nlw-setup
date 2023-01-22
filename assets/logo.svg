@@ -15,8 +15,8 @@
         width="15"
         height="15"
         rx="3.5"
-        fill="#18181B"
-        stroke="#27272A"
+        fill="#ff5722"
+        stroke="#f4511e"
       />
       <rect
         x="20.5"
@@ -24,8 +24,8 @@
         width="15"
         height="15"
         rx="3.5"
-        fill="#4C1D95"
-        stroke="#6D28D9"
+        fill="#e65100"
+        stroke="#ef6c00"
       />
       <rect
         x="40.5"
@@ -33,8 +33,8 @@
         width="15"
         height="15"
         rx="3.5"
-        fill="#5B21B6"
-        stroke="#7C3AED"
+        fill="#f57c00"
+        stroke="#fb8c00"
       />
       <rect
         x="60.5"
@@ -42,8 +42,8 @@
         width="15"
         height="15"
         rx="3.5"
-        fill="#6D28D9"
-        stroke="#8B5CF6"
+        fill="#ff9800"
+        stroke="#ffa726"
       />
       <rect
         x="80.5"
@@ -51,8 +51,8 @@
         width="15"
         height="15"
         rx="3.5"
-        fill="#7C3AED"
-        stroke="#A78BFA"
+        fill="#ffb74d"
+        stroke="#ffcc80"
       />
       <rect
         x="100.5"
@@ -60,7 +60,7 @@
         width="15"
         height="15"
         rx="3.5"
-        fill="#8B5CF6"
-        stroke="#C4B5FD"
+        fill="#ffe082"
+        stroke="#fff3e0"
       />
     </svg>
